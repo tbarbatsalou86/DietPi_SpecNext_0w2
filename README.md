@@ -7,3 +7,4 @@ Extract one of the .zip parts for the whole .img file to be extracted.
 Burn the image to a bootable SD card
 <br>
 Enjoy!
+Thanks to https://zx.xalior.com/NextPi/ for the initial version
